@@ -21,3 +21,6 @@ Run the script from your terminal by passing the target directory path as an arg
 ```bash
 python main.py /path/to/target/folder
 ```
+
+
+
